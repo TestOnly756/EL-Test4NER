@@ -1,4 +1,4 @@
-# Project8c01
+# EL-Test4NER
 This repository stores our experimental codes and results.
 
 ## Dataset
