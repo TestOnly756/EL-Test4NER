@@ -108,7 +108,10 @@ python test_runner.py rule3 aws
 # Enable verbose output
 python test_runner.py rule1 azure --verbose
 ```
-
+Use the unified repair runner to execute repair after mutations:
+```bash
+python test_repair_unified.py 
+```
 ### Available Options
 
 **Rules:**
